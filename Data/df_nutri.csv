@@ -1,0 +1,19 @@
+"Id","Population_group","Classification","Publication_year","nutri_st","events","n_grp"
+11,"Children","1997 WHO Classification","2008","n1",2,4
+13,"Adutls","1997 WHO Classification","2017","n1",NA,NA
+35,"Children","1997 WHO Classification","2010","n1",5,6
+65,"Children","1997 WHO Classification","2005","n1",323,419
+146,"Children","2009 WHO Classification","2020","n1",9,17
+166,"Children","1997 WHO Classification","2018","n1",NA,NA
+11,"Children","1997 WHO Classification","2008","n2",22,43
+13,"Adutls","1997 WHO Classification","2017","n2",10,30
+35,"Children","1997 WHO Classification","2010","n2",45,101
+65,"Children","1997 WHO Classification","2005","n2",2452,3018
+146,"Children","2009 WHO Classification","2020","n2",52,85
+166,"Children","1997 WHO Classification","2018","n2",22,51
+11,"Children","1997 WHO Classification","2008","n3",28,51
+13,"Adutls","1997 WHO Classification","2017","n3",100,315
+35,"Children","1997 WHO Classification","2010","n3",12,21
+65,"Children","1997 WHO Classification","2005","n3",892,1095
+146,"Children","2009 WHO Classification","2020","n3",NA,NA
+166,"Children","1997 WHO Classification","2018","n3",18,29

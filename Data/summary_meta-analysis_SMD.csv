@@ -1,0 +1,85 @@
+"V1","V2","V3","V4","V5"
+"Prognostic factors","No. of studies","SMD","Heterogeneity","
+"
+"","
+","
+","
+","
+"
+"Age","
+","
+","
+",NA
+"        All included studies","67","0.06 (-0.02 ; 0.14)","75.2","0.84"
+"        Sensitivity analysis","63","0 (-0.06 ; 0.06)","49.4","0.12"
+"        With 2009 Classification","25","0.02 (-0.05 ; 0.08)","18.87",NA
+"        With 1997 Classification","38","0.09 (-0.04 ; 0.23)","84.5",NA
+"        ","
+","
+","
+",NA
+"Weight","
+","
+","
+",NA
+"        All included studies","5","-0.36 (-0.83 ; 0.12)","85.7","0.34"
+"","
+","
+","
+",NA
+"Platelet count","
+","
+","
+",NA
+"        All included studies","12","-0.34 (-0.54 ; -0.15)","73.9","0.59"
+"        Sensitivity analysis","10","-0.21 (-0.32 ; -0.1)","0","0.76"
+"        With 1997 Classification","9","-0.42 (-0.64 ; -0.19)","74.5",NA
+"        With 2009 Classification","3","-0.08 (-0.29 ; 0.14)","0",NA
+"        ","
+","
+","
+",NA
+"Leukocyte count","
+","
+","
+",NA
+"        All included studies","7","-0.04 (-0.16 ; 0.08)","0","0.19"
+"","
+","
+","
+",NA
+"Haematocrit","
+","
+","
+",NA
+"        All included studies","10","0.07 (-0.11 ; 0.26)","31.9",NA
+"        Sensitivity analysis","8","0.04 (-0.11 ; 0.18)","0",NA
+"        ","
+","
+","
+",NA
+"AST","
+","
+","
+",NA
+"        All included studies","7","1.06 (0.54 ; 1.57)","82.9","0.05"
+"        Sensitivity analysis","6","0.8 (0.44 ; 1.16)","61.8","0.16"
+"        ","
+","
+","
+",NA
+"ALT","
+","
+","
+",NA
+"        All included studies","7","0.73 (0.36 ; 1.09)","67","0.01"
+"        Sensitivity analysis","5","0.45 (0.22 ; 0.67)","0","0.23"
+"        ","
+","
+","
+",NA
+"Serum albumin","
+","
+","
+",NA
+"        All included studies","4","-0.5 (-0.86 ; -0.15)","44.1",NA

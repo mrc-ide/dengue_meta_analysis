@@ -1,0 +1,89 @@
+"","Id","Population_group","Classification","Publication_year","serotype","events","n_grp"
+"1",10,"Adults","2009 WHO Classification",2015,"n1",13,103
+"2",11,"Children","1997 WHO Classification",2008,"n1",10,26
+"3",20,"Mixed population","2009 WHO Classification",2017,"n1",9,44
+"4",24,"Children","1997 WHO Classification",2014,"n1",19,45
+"5",40,"Children","1997 WHO Classification",2017,"n1",65,956
+"6",72,"Children","1997 WHO Classification",2011,"n1",40,61
+"7",75,"Children","1997 WHO Classification",2010,"n1",54,162
+"8",80,"Adults","1997 WHO Classification",2016,"n1",5,10
+"9",86,"Children","1997 WHO Classification",2015,"n1",22,133
+"10",93,"Adults","1997 WHO Classification",2008,"n1",8,28
+"11",101,"Mixed population","1997 WHO Classification",2011,"n1",11,42
+"12",102,"Children","1997 WHO Classification",2012,"n1",20,21
+"13",126,"Adults","1997 WHO Classification",2017,"n1",0.1,3.1
+"14",130,"Children","1997 WHO Classification",2012,"n1",9,57
+"15",149,"Mixed population","2009 WHO Classification",2019,"n1",18,64
+"16",150,"Mixed population","2009 WHO Classification",2019,"n1",18,64
+"17",151,"Children","2009 WHO Classification",2019,"n1",1,10
+"18",152,"Children","1997 WHO Classification",2019,"n1",14,215
+"19",163,"Adults","2009 WHO Classification",2018,"n1",0.5,8.5
+"20",164,"Adults","2009 WHO Classification",2018,"n1",7,18
+"21",169,"Mixed population","1997 WHO Classification",2018,"n1",2.996,19.999
+"22",172,"Mixed population","1997 WHO Classification",2018,"n1",16,30
+"23",10,"Adults","2009 WHO Classification",2015,"n2",13,268
+"24",11,"Children","1997 WHO Classification",2008,"n2",4,6
+"25",20,"Mixed population","2009 WHO Classification",2017,"n2",2,4
+"26",24,"Children","1997 WHO Classification",2014,"n2",50,80
+"27",40,"Children","1997 WHO Classification",2017,"n2",46,553
+"28",72,"Children","1997 WHO Classification",2011,"n2",42,56
+"29",75,"Children","1997 WHO Classification",2010,"n2",44,102
+"30",80,"Adults","1997 WHO Classification",2016,"n2",5,6
+"31",86,"Children","1997 WHO Classification",2015,"n2",72,153
+"32",93,"Adults","1997 WHO Classification",2008,"n2",NA,NA
+"33",101,"Mixed population","1997 WHO Classification",2011,"n2",11,39
+"34",102,"Children","1997 WHO Classification",2012,"n2",20,21
+"35",126,"Adults","1997 WHO Classification",2017,"n2",8,50
+"36",130,"Children","1997 WHO Classification",2012,"n2",10,37
+"37",149,"Mixed population","2009 WHO Classification",2019,"n2",12,41
+"38",150,"Mixed population","2009 WHO Classification",2019,"n2",18,63
+"39",151,"Children","2009 WHO Classification",2019,"n2",3,17
+"40",152,"Children","1997 WHO Classification",2019,"n2",4,88
+"41",163,"Adults","2009 WHO Classification",2018,"n2",18,527
+"42",164,"Adults","2009 WHO Classification",2018,"n2",12,25
+"43",169,"Mixed population","1997 WHO Classification",2018,"n2",8.988,13.006
+"44",172,"Mixed population","1997 WHO Classification",2018,"n2",4,19
+"45",10,"Adults","2009 WHO Classification",2015,"n3",4,80
+"46",11,"Children","1997 WHO Classification",2008,"n3",4,6
+"47",20,"Mixed population","2009 WHO Classification",2017,"n3",0.1,3.1
+"48",24,"Children","1997 WHO Classification",2014,"n3",18,47
+"49",40,"Children","1997 WHO Classification",2017,"n3",7,195
+"50",72,"Children","1997 WHO Classification",2011,"n3",10,20
+"51",75,"Children","1997 WHO Classification",2010,"n3",48,123
+"52",80,"Adults","1997 WHO Classification",2016,"n3",2,4
+"53",86,"Children","1997 WHO Classification",2015,"n3",90,403
+"54",93,"Adults","1997 WHO Classification",2008,"n3",31,31.1
+"55",101,"Mixed population","1997 WHO Classification",2011,"n3",NA,NA
+"56",102,"Children","1997 WHO Classification",2012,"n3",4,6
+"57",126,"Adults","1997 WHO Classification",2017,"n3",NA,NA
+"58",130,"Children","1997 WHO Classification",2012,"n3",6,27
+"59",149,"Mixed population","2009 WHO Classification",2019,"n3",29,62
+"60",150,"Mixed population","2009 WHO Classification",2019,"n3",34,68
+"61",151,"Children","2009 WHO Classification",2019,"n3",1,16
+"62",152,"Children","1997 WHO Classification",2019,"n3",1,61
+"63",163,"Adults","2009 WHO Classification",2018,"n3",1,8
+"64",164,"Adults","2009 WHO Classification",2018,"n3",3,8
+"65",169,"Mixed population","1997 WHO Classification",2018,"n3",12.012,29.015
+"66",172,"Mixed population","1997 WHO Classification",2018,"n3",1,4
+"67",10,"Adults","2009 WHO Classification",2015,"n4",NA,NA
+"68",11,"Children","1997 WHO Classification",2008,"n4",13,22
+"69",20,"Mixed population","2009 WHO Classification",2017,"n4",0.1,63.1
+"70",24,"Children","1997 WHO Classification",2014,"n4",0.1,6.1
+"71",40,"Children","1997 WHO Classification",2017,"n4",13,169
+"72",72,"Children","1997 WHO Classification",2011,"n4",0.1,3.1
+"73",75,"Children","1997 WHO Classification",2010,"n4",20,64
+"74",80,"Adults","1997 WHO Classification",2016,"n4",10,18
+"75",86,"Children","1997 WHO Classification",2015,"n4",0.1,1.1
+"76",93,"Adults","1997 WHO Classification",2008,"n4",NA,NA
+"77",101,"Mixed population","1997 WHO Classification",2011,"n4",NA,NA
+"78",102,"Children","1997 WHO Classification",2012,"n4",0.1,0.2
+"79",126,"Adults","1997 WHO Classification",2017,"n4",0.1,1.1
+"80",130,"Children","1997 WHO Classification",2012,"n4",2,12
+"81",149,"Mixed population","2009 WHO Classification",2019,"n4",20,43
+"82",150,"Mixed population","2009 WHO Classification",2019,"n4",98,137
+"83",151,"Children","2009 WHO Classification",2019,"n4",2,21
+"84",152,"Children","1997 WHO Classification",2019,"n4",1,113
+"85",163,"Adults","2009 WHO Classification",2018,"n4",1,1.5
+"86",164,"Adults","2009 WHO Classification",2018,"n4",0.5,1.5
+"87",169,"Mixed population","1997 WHO Classification",2018,"n4",4.004,15.029
+"88",172,"Mixed population","1997 WHO Classification",2018,"n4",0.1,2.1
