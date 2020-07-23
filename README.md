@@ -1,4 +1,4 @@
-``Please cite as:
+Please cite as:
 Sangkaew et. al., 2020, Enhancing risk prediction of prgression to severe disease during the febrile phase of dengue: A systmeatic review and meta-analysis, The Lancet Infectious Diseases, doi:****
 
 # Repository structure
