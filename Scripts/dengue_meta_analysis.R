@@ -20,6 +20,7 @@ library(netmeta)
 library(metafor)
 library(tidyr)
 library(ggplot2)
+library(forestplot)
 
 # load utils file --------------------------------------------------------------
 source("functions.R")
@@ -1093,6 +1094,7 @@ results_serotype_ad <- data.frame(
 # Create the summary forest plot of factors reported as standard 
 # mean differences
 tabletext_1 <- read.csv("summary_meta-analysis_SMD.csv")
+data_1 <- read.csv("data_1.csv")
 workdir <- getwd()
 pdf(file.path(workdir,"Figure_Pooled_SMD.pdf"), width= 15.98*2, 
     height= 11.93*2)
@@ -1118,6 +1120,7 @@ dev.off()
 
 # Create the summary forest plot of factors reported as odds ratio
 tabletext_2 <- read.csv("summary_meta-analysis_ORs.csv")
+data_2 <- read.csv("data_2.csv")
 pdf(file.path(workdir,"Figures_Pooled_OR.pdf"), width=8.27*3,
     height= 11.69*3 )
 forestplot(labeltext=tabletext_2, graph.pos=5, 
