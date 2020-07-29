@@ -17,8 +17,8 @@ The data folder contains the following input files
 - `Df_serotype.csv`: dengue virus serotypes
 
 The results of the meta-analysis are given in the following output files
-- `Summary_meta-analysis_ORs`: effect sizes as odds ratios
-- `Summary_meta-analysis_SMD`: effect sizes as standard mean differences
+- `Summary_meta-analysis_ORs.csv` and `data_1.csv`: effect sizes as odds ratios
+- `Summary_meta-analysis_SMD` and `data_2.csv`: effect sizes as standard mean differences
 
 ## Scripts
 The script folder contains the scripts to perform the meta-analysis
