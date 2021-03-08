@@ -1,55 +1,48 @@
-"Id","Au","Yr","TE","seTE","Cl","Pop","vari"
-"96","Carrasco et al.","2014",-0.202712915786344,0.142469350857817,"2009 WHO Classification","Mixed population","wbc"
-"4","Conroy et al.","2015",0.0121454437563597,0.192676958370698,"1997 WHO Classification","Mixed population","wbc"
-"64","Kalayanarooj et al.","1997",0.0482739090827826,0.258812104559988,"1997 WHO Classification","Children","wbc"
-"72","Ha et al.","2011",0.00516405143794992,0.171905307324032,"1997 WHO Classification","Children","wbc"
-"73","Green et al.","1999",-0.432176327464011,0.28595182292865,"1997 WHO Classification","Children","wbc"
-"100","Flores-Mendoza et al.","2017",-0.279805440148752,0.356554794670038,"1997 WHO Classification","Adults","wbc"
-"174","Ralapanawa, U. et al.","2018",0.0487015483591806,0.0921944209569048,"1997 WHO Classification","Adults","wbc"
-"96","Carrasco et al.","2014",-0.202712915786344,0.142469350857817,"2009 WHO Classification","Mixed population","wbc"
-"4","Conroy et al.","2015",0.0121454437563597,0.192676958370698,"1997 WHO Classification","Mixed population","wbc"
-"64","Kalayanarooj et al.","1997",0.0482739090827826,0.258812104559988,"1997 WHO Classification","Children","wbc"
-"72","Ha et al.","2011",0.00516405143794992,0.171905307324032,"1997 WHO Classification","Children","wbc"
-"73","Green et al.","1999",-0.432176327464011,0.28595182292865,"1997 WHO Classification","Children","wbc"
-"100","Flores-Mendoza et al.","2017",-0.279805440148752,0.356554794670038,"1997 WHO Classification","Adults","wbc"
-"174","Ralapanawa, U. et al.","2018",0.0487015483591806,0.0921944209569048,"1997 WHO Classification","Adults","wbc"
-"96","Carrasco et al.","2014",0.211687637816164,0.300122789364482,"2009 WHO Classification","Mixed population","hct"
-"13","Villamor et al.","2017",-0.0222345501574277,0.115528977861281,"1997 WHO Classification","Adults","hct"
-"100","Flores-Mendoza et al.","2017",-0.743380906704721,0.363417387476261,"1997 WHO Classification","Adults","hct"
-"16","Vasanwala et al.","2014",0,0.265639824064526,"1997 WHO Classification","Adults","hct"
-"39(Male)","Lee et al.","2015",-0.0326290678174303,0.22713267379846,"2009 WHO Classification","Adults","hct"
-"39(Female)","Lee et al.","2015",-0.0541412481584498,0.384133623269257,"2009 WHO Classification","Adults","hct"
-"19","Trairatvorakul et al.","2005",0.744431538183391,0.290872182658318,"1997 WHO Classification","Children","hct"
-"23","Sosothikul et al.","2007",0.437659199191247,0.368195705068429,"1997 WHO Classification","Children","hct"
-"64","Kalayanarooj et al.","1997",0.260481365234629,0.259864785791714,"1997 WHO Classification","Children","hct"
-"72","Ha et al.","2011",0.00874439139682021,0.171905835930246,"1997 WHO Classification","Children","hct"
-"22","Sreenivasan et al.","2018",0.0401725600697232,0.152509132852871,"2009 WHO Classification","Children","plt"
-"169","Villamor, E.; Villar, L. A.; Lozano-Parra, A.; Herrera, V. M.; Herran, O. F.","2018",-0.971065752065937,0.146150796446394,"1997 WHO Classification","Mixed population","plt"
-"4","Conroy et al.","2015",-0.039691284668911,0.192693648590554,"1997 WHO Classification","Mixed population","plt"
-"16","Vasanwala et al.","2014",-0.0456774235244041,0.215715111541365,"1997 WHO Classification","Adults","plt"
-"23","Sosothikul et al.","2007",-0.694635650830662,0.37451460846395,"1997 WHO Classification","Children","plt"
-"39","Lee et al.","2015",-0.182220585941325,0.169527933745948,"2009 WHO Classification","Adults","plt"
-"40","Lam et al.","2017",-0.295051424899673,0.0876666550788841,"1997 WHO Classification","Children","plt"
-"64","Kalayanarooj et al.","1997",-0.58136077395733,0.264160535710304,"1997 WHO Classification","Children","plt"
-"72","Ha et al.","2011",-0.167880276878929,0.172203942747027,"1997 WHO Classification","Children","plt"
-"100","Flores-Mendoza et al.","2017",-0.298747886407446,0.35671484423116,"1997 WHO Classification","Adults","plt"
-"151","Phuong, N. T. N. et al.","2019",-0.288151230468125,0.38019535448815,"2009 WHO Classification","Children","plt"
-"174","Ralapanawa, U. et al.","2018",-0.637425548516281,0.0943493411297416,"1997 WHO Classification","Adults","plt"
-"39","Lee et al.","2015",1.38557213750179,0.305031436684136,"2009 WHO Classification","Adults","ast"
-"19","Trairatvorakul et al.","2005",0.408533620773963,0.284866252897036,"1997 WHO Classification","Children","ast"
-"24","Sirikutt et al.","2014",0.630780885123741,0.236823145169498,"1997 WHO Classification","Children","ast"
-"64","Kalayanarooj et al.","1997",0.487527117592139,0.309576073506018,"1997 WHO Classification","Children","ast"
-"76","Fragnound et al.","2015",2.63793341773611,0.391084220936985,"1997 WHO Classification","Children","ast"
-"100","Flores-Mendoza et al.","2017",1.65302735862731,0.393420036848924,"1997 WHO Classification","Adults","ast"
-"142","Villar-Centrno et al.","2008",0.538842564695344,0.199950041260266,"1997 WHO Classification","Mixed population","ast"
-"39","Lee et al.","2015",1.49943719946422,0.358231616425645,"2009 WHO Classification","Adults","alt"
-"19","Trairatvorakul et al.","2005",0.441344672798158,0.285302924684254,"1997 WHO Classification","Children","alt"
-"24","Sirikutt et al.","2014",0.742191086434757,0.266402259018736,"1997 WHO Classification","Children","alt"
-"64","Kalayanarooj et al.","1997",0.597675433342525,0.264463768932146,"1997 WHO Classification","Children","alt"
-"76","Fragnound et al.","2015",0.389720376937726,0.28894569623714,"1997 WHO Classification","Children","alt"
-"100","Flores-Mendoza et al.","2017",1.65302735862731,0.393420036848924,"1997 WHO Classification","Adults","alt"
-"142","Villar-Centrno et al.","2008",0.222981494646023,0.19843240561091,"1997 WHO Classification","Mixed population","alt"
-"19","Trairatvorakul et al.","2005",-0.693102616266098,0.289737490575015,"1997 WHO Classification","Children","alb"
-"64","Kalayanarooj et al.","1997",-0.166666666666666,0.259221463609338,"1997 WHO Classification","Children","alb"
-"100","Flores-Mendoza et al.","2017",-1.11046665714742,0.373042836935176,"1997 WHO Classification","Adults","alb"
-"142","Villar-Centrno et al.","2008",-0.334482580372294,0.198825539350671,"1997 WHO Classification","Mixed population","alb"
+Id,Yr,TE,seTE,Cl,Pop,vari
+96,2014,-0.202712916,0.142469351,2009 WHO Classification,Mixed population,wbc
+4,2015,0.012145444,0.192676958,1997 WHO Classification,Mixed population,wbc
+64,1997,0.048273909,0.258812105,1997 WHO Classification,Children,wbc
+72,2011,0.005164051,0.171905307,1997 WHO Classification,Children,wbc
+73,1999,-0.432176327,0.285951823,1997 WHO Classification,Children,wbc
+100,2017,-0.27980544,0.356554795,1997 WHO Classification,Adults,wbc
+174,2018,0.048701548,0.092194421,1997 WHO Classification,Adults,wbc
+96,2014,0.211687638,0.300122789,2009 WHO Classification,Mixed population,hct
+13,2017,-0.02223455,0.115528978,1997 WHO Classification,Adults,hct
+100,2017,-0.743380907,0.363417387,1997 WHO Classification,Adults,hct
+16,2014,0,0.265639824,1997 WHO Classification,Adults,hct
+39(Male),2015,-0.032629068,0.227132674,2009 WHO Classification,Adults,hct
+39(Female),2015,-0.054141248,0.384133623,2009 WHO Classification,Adults,hct
+19,2005,0.744431538,0.290872183,1997 WHO Classification,Children,hct
+23,2007,0.437659199,0.368195705,1997 WHO Classification,Children,hct
+64,1997,0.260481365,0.259864786,1997 WHO Classification,Children,hct
+72,2011,0.008744391,0.171905836,1997 WHO Classification,Children,hct
+22,2018,0.04017256,0.152509133,2009 WHO Classification,Children,plt
+169,2018,-0.971065752,0.146150796,1997 WHO Classification,Mixed population,plt
+4,2015,-0.039691285,0.192693649,1997 WHO Classification,Mixed population,plt
+16,2014,-0.045677424,0.215715112,1997 WHO Classification,Adults,plt
+23,2007,-0.694635651,0.374514608,1997 WHO Classification,Children,plt
+39,2015,-0.182220586,0.169527934,2009 WHO Classification,Adults,plt
+40,2017,-0.295051425,0.087666655,1997 WHO Classification,Children,plt
+64,1997,-0.581360774,0.264160536,1997 WHO Classification,Children,plt
+72,2011,-0.167880277,0.172203943,1997 WHO Classification,Children,plt
+100,2017,-0.298747886,0.356714844,1997 WHO Classification,Adults,plt
+151,2019,-0.28815123,0.380195354,2009 WHO Classification,Children,plt
+174,2018,-0.637425549,0.094349341,1997 WHO Classification,Adults,plt
+39,2015,1.385572138,0.305031437,2009 WHO Classification,Adults,ast
+19,2005,0.408533621,0.284866253,1997 WHO Classification,Children,ast
+24,2014,0.630780885,0.236823145,1997 WHO Classification,Children,ast
+64,1997,0.487527118,0.309576074,1997 WHO Classification,Children,ast
+76,2015,2.637933418,0.391084221,1997 WHO Classification,Children,ast
+100,2017,1.653027359,0.393420037,1997 WHO Classification,Adults,ast
+142,2008,0.538842565,0.199950041,1997 WHO Classification,Mixed population,ast
+39,2015,1.499437199,0.358231616,2009 WHO Classification,Adults,alt
+19,2005,0.441344673,0.285302925,1997 WHO Classification,Children,alt
+24,2014,0.742191086,0.266402259,1997 WHO Classification,Children,alt
+64,1997,0.597675433,0.264463769,1997 WHO Classification,Children,alt
+76,2015,0.389720377,0.288945696,1997 WHO Classification,Children,alt
+100,2017,1.653027359,0.393420037,1997 WHO Classification,Adults,alt
+142,2008,0.222981495,0.198432406,1997 WHO Classification,Mixed population,alt
+19,2005,-0.693102616,0.289737491,1997 WHO Classification,Children,alb
+64,1997,-0.166666667,0.259221464,1997 WHO Classification,Children,alb
+100,2017,-1.110466657,0.373042837,1997 WHO Classification,Adults,alb
+142,2008,-0.33448258,0.198825539,1997 WHO Classification,Mixed population,alb

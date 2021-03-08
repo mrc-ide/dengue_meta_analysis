@@ -43,7 +43,7 @@ df_magen_co <- read.csv("df_magen_co.csv")
 # meta-analysis of sex, comorbidity, apparence of signs and symptoms, and immune 
 # status factors 
 df_magen_ca <- read.csv("df_magen_ca.csv") 
-
+View(df_magen_ca)
 # meta-analysis of nutritional status
 df_nutri <- read.csv("df_nutri.csv")
 
@@ -267,7 +267,7 @@ metabias(PLT_mod_ad, method.bias = "linreg", k.min = 4)
 
 MA_WBC <- filter(df_magen_co, vari == "wbc")
 str(MA_WBC)
-
+View(MA_WBC)
 WBC_mod <- metagen(TE,
                    seTE,
                    studlab = Id,
@@ -425,8 +425,8 @@ funnel(ALT_mod_ch, xlab = "SMD")
 
 
 # Egger's test
-metabias(ALT_mod, method.bias = "linreg")
-metabias(ALT_mod_ch, method.bias = "linreg")
+metabias(ALT_mod, method.bias = "linreg", k = 4)
+metabias(ALT_mod_ch, method.bias = "linreg", k =4)
 
 ### trim and fill procedure
 TnF_ALT_mod <- trimfill(ALT_mod)
@@ -697,6 +697,7 @@ funnel(CVS_mod_ad, xlab = "Odds ratio")
 
 metabias(CVS_mod, method.bias = "linreg", k.min = 4 )
 metabias(CVS_mod_ad, method.bias = "linreg", k.min = 4 )
+
 ### trim and fill procedure
 TnF_CVS_mod <- trimfill(CVS_mod)
 funnel(TnF_CVS_mod, xlab = "Odds ratio")
@@ -743,7 +744,7 @@ vomit_mod<- metagen( TE = log(TE),
 
 vomit_mod_ch<- metagen( TE = log(TE), 
                         seTE = seTE, 
-                        data = MA_vomit,
+                        data = MA_vomit_ch,
                         studlab = Id,
                         comb.fixed = F,
                         comb.random = T,
